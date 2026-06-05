@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "type": "module",
   "homepage": "https://Panagiotis2929.github.io/finance-tracker",
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
