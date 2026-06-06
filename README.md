@@ -1,12 +1,12 @@
-# 💰 Finance Tracker
+# Finance Tracker
 
-A modern personal finance management application built with React, Vite, Recharts, and Tailwind CSS.
+A personal finance management application built with React, Vite, Recharts, and Tailwind CSS.
 
 Track your income and expenses, monitor your balance in real time, visualize spending habits through interactive charts, and gain better control over your financial decisions.
 
 ---
 
-## ✨ Overview
+## Overview
 
 Finance Tracker provides a clean and intuitive interface for managing personal finances. Users can add transactions, categorize expenses, monitor savings performance, and analyze spending patterns through interactive data visualizations.
 
@@ -14,7 +14,7 @@ The application is designed with scalability and maintainability in mind using R
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Dashboard Summary
 - Real-time balance tracking
@@ -49,7 +49,7 @@ The application is designed with scalability and maintainability in mind using R
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -63,7 +63,7 @@ The application is designed with scalability and maintainability in mind using R
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -122,7 +122,7 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Panagiotis**
 
