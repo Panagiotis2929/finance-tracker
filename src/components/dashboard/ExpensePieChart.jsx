@@ -5,7 +5,6 @@ import { useTransactions } from '../../hooks/useTransactions'
 import { formatCurrency, pct } from '../../utils/formatters'
 import Card from '../ui/Card'
 
-// Earthy, refined color palette
 const COLORS = [
   '#5a9970', '#c95555', '#c09030', '#7aad8c',
   '#91847e', '#7a6d5e', '#3f7d55', '#a83e3e',
