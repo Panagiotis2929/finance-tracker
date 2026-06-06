@@ -34,5 +34,3 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-- **New charts**: Add a `BarChart` in `src/components/dashboard/` — `pieData` and `summary` are already available via `useTransactions()`
-- **Filters**: Extend `TransactionList` with a month/year filter using `useMemo`
