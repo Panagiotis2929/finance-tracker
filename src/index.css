@@ -44,7 +44,6 @@
   }
 }
 
-/* Noise texture overlay */
 .noise::before {
   content: '';
   position: fixed;
@@ -55,7 +54,6 @@
   opacity: 0.5;
 }
 
-/* Animations */
 @keyframes fadeUp {
   from {
     opacity: 0;
