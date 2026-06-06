@@ -124,6 +124,6 @@ This project demonstrates:
 
 ## Author
 
-**Panagiotis**
+**KYRANAS RALLIS-PANAGIOTIS**
 
 GitHub: https://github.com/Panagiotis2929
