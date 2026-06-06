@@ -1,7 +1,3 @@
-/**
- * Reusable card wrapper with consistent styling.
- * Supports optional hover effect and custom className overrides.
- */
 export default function Card({ children, className = '', hover = false, ...props }) {
   return (
     <div
