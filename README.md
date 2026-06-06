@@ -1,8 +1,8 @@
-# 💰 Personal Finance Tracker
+# Finance Tracker
 
 A clean, professional personal finance tracker built with React, Recharts, and Tailwind CSS.
 
-## ✨ Features
+## Features
 
 - **Balance Summary** — Live balance, total income & total expense cards with a savings rate bar
 - **Add Transactions** — Form with type toggle (income/expense), category selector, amount and date fields
@@ -10,7 +10,7 @@ A clean, professional personal finance tracker built with React, Recharts, and T
 - **Transaction List** — Filterable list (All / Income / Expense) with smooth delete animation
 - **Global State** — Context + useReducer pattern for clean, scalable state management
 
-## 🏗 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -19,7 +19,7 @@ A clean, professional personal finance tracker built with React, Recharts, and T
 | Tailwind CSS v3 | Utility-first styling |
 | uuid | Unique transaction IDs |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
