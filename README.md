@@ -34,34 +34,5 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-
-## 🚀 Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-## 🗂 Data Shape
-
-```js
-{
-  id:       string,          // auto-generated UUID
-  type:     'income' | 'expense',
-  category: string,
-  amount:   number,          // positive float
-  date:     string,          // ISO 8601, e.g. "2025-06-15"
-}
-```
-
-## 🔧 Extending
-
-- **Persistence**: Swap the in-memory `useReducer` state for `localStorage` by adding a `useEffect` in `TransactionContext.jsx`
 - **New charts**: Add a `BarChart` in `src/components/dashboard/` — `pieData` and `summary` are already available via `useTransactions()`
 - **Filters**: Extend `TransactionList` with a month/year filter using `useMemo`
